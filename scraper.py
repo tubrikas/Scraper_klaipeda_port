@@ -41,3 +41,5 @@ for link in article_links:
 
     articles_data.append({"url": link, "title": title, "date": date, "text": full_text})
     
+df = pd.DataFrame(articles_data)
+df.to_excel('./data/klaipeda_port_scraper.xlsx', index=False)

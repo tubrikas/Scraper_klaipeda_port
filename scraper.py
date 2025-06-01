@@ -18,3 +18,26 @@ for page_number in range(1, max_pages + 1):
         article_links.append(link["href"])
 
 print(f"\nTotal collected article links: {len(article_links)}")
+
+articles_data = []
+
+for link in article_links:
+    print(f"Scraping: {link}")
+    response = requests.get(link)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    title_tag = soup.find("h1", class_="mb-4")
+    title = title_tag.get_text(strip=True) if title_tag else "N/A"
+
+    date_tag = soup.find("div", class_="text-grey mb-5")
+    date = date_tag.get_text(strip=True) if date_tag else "N/A"
+
+    text_block = soup.find("div", class_="fs-4")
+    if text_block:
+        paragraphs = text_block.find_all("p")
+        full_text = "\n\n".join([p.get_text(strip=True) for p in paragraphs])
+    else:
+        full_text = "N/A"
+
+    articles_data.append({"url": link, "title": title, "date": date, "text": full_text})
+    

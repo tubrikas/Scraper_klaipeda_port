@@ -1,0 +1,122 @@
+2025-06-01 17:50:04,474 INFO: Scraping page 1: https://portofklaipeda.lt/en/community/news/
+2025-06-01 17:50:05,465 INFO: Success: https://portofklaipeda.lt/en/community/news/
+2025-06-01 17:50:06,995 INFO: Scraping page 2: https://portofklaipeda.lt/en/community/news/page/2/
+2025-06-01 17:50:07,818 INFO: Success: https://portofklaipeda.lt/en/community/news/page/2/
+2025-06-01 17:50:09,347 INFO: Scraping page 3: https://portofklaipeda.lt/en/community/news/page/3/
+2025-06-01 17:50:10,183 INFO: Success: https://portofklaipeda.lt/en/community/news/page/3/
+2025-06-01 17:50:11,715 INFO: Scraping page 4: https://portofklaipeda.lt/en/community/news/page/4/
+2025-06-01 17:50:12,428 INFO: Success: https://portofklaipeda.lt/en/community/news/page/4/
+2025-06-01 17:50:13,962 INFO: Scraping page 5: https://portofklaipeda.lt/en/community/news/page/5/
+2025-06-01 17:50:14,679 INFO: Success: https://portofklaipeda.lt/en/community/news/page/5/
+2025-06-01 17:50:16,213 INFO: Total collected article links: 55
+2025-06-01 17:50:16,214 INFO: Scraping article 1: https://portofklaipeda.lt/en/naujienos/bold-steps-toward-sustainability-klaipeda-port-begins-green-hydrogen-journey/
+2025-06-01 17:50:16,908 INFO: Success: https://portofklaipeda.lt/en/naujienos/bold-steps-toward-sustainability-klaipeda-port-begins-green-hydrogen-journey/
+2025-06-01 17:50:18,442 INFO: Scraping article 2: https://portofklaipeda.lt/en/naujienos/klaipeda-port-to-pioneer-lithuanias-first-private-5g-standalone-network/
+2025-06-01 17:50:19,305 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-to-pioneer-lithuanias-first-private-5g-standalone-network/
+2025-06-01 17:50:20,838 INFO: Scraping article 3: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-authoritys-vessels-have-a-new-home/
+2025-06-01 17:50:21,644 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-authoritys-vessels-have-a-new-home/
+2025-06-01 17:50:23,173 INFO: Scraping article 4: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-begins-2025-with-strong-momentum/
+2025-06-01 17:50:24,033 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-begins-2025-with-strong-momentum/
+2025-06-01 17:50:25,563 INFO: Scraping article 5: https://portofklaipeda.lt/en/naujienos/more-than-eur-300-million-for-klaipeda-port-infrastructure-to-strengthen-the-countrys-economy-and-energy-security/
+2025-06-01 17:50:26,354 INFO: Success: https://portofklaipeda.lt/en/naujienos/more-than-eur-300-million-for-klaipeda-port-infrastructure-to-strengthen-the-countrys-economy-and-energy-security/
+2025-06-01 17:50:27,887 INFO: Scraping article 6: https://portofklaipeda.lt/en/naujienos/record-breaking-early-start-klaipeda-port-welcomed-the-first-cruise-ship-of-the-2025-season/
+2025-06-01 17:50:28,706 INFO: Success: https://portofklaipeda.lt/en/naujienos/record-breaking-early-start-klaipeda-port-welcomed-the-first-cruise-ship-of-the-2025-season/
+2025-06-01 17:50:30,225 INFO: Scraping article 7: https://portofklaipeda.lt/en/naujienos/an-environmentally-and-human-friendly-klaipeda-port-from-vision-to-action/
+2025-06-01 17:50:30,991 INFO: Success: https://portofklaipeda.lt/en/naujienos/an-environmentally-and-human-friendly-klaipeda-port-from-vision-to-action/
+2025-06-01 17:50:32,520 INFO: Scraping article 8: https://portofklaipeda.lt/en/naujienos/electricity-for-vessels-at-port-quays-infrastructure-installation-begins/
+2025-06-01 17:50:33,214 INFO: Success: https://portofklaipeda.lt/en/naujienos/electricity-for-vessels-at-port-quays-infrastructure-installation-begins/
+2025-06-01 17:50:34,747 INFO: Scraping article 9: https://portofklaipeda.lt/en/naujienos/klaipeda-port-quays-platform-for-offshore-wind-energy/
+2025-06-01 17:50:35,466 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-quays-platform-for-offshore-wind-energy/
+2025-06-01 17:50:36,994 INFO: Scraping article 10: https://portofklaipeda.lt/en/naujienos/2024-for-klaipeda-port-growing-cargo-handling-new-records-and-increased-market-share/
+2025-06-01 17:50:37,617 INFO: Success: https://portofklaipeda.lt/en/naujienos/2024-for-klaipeda-port-growing-cargo-handling-new-records-and-increased-market-share/
+2025-06-01 17:50:39,148 INFO: Scraping article 11: https://portofklaipeda.lt/en/naujienos/klaipeda-port-moves-into-the-future-the-countrys-first-hydrogen-powered-ship-is-already-in-the-water/
+2025-06-01 17:50:39,833 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-moves-into-the-future-the-countrys-first-hydrogen-powered-ship-is-already-in-the-water/
+2025-06-01 17:50:41,365 INFO: Scraping article 12: https://portofklaipeda.lt/en/naujienos/vision-of-new-cruise-ship-terminal-at-klaipeda-port-becomes-reality-construction-contract-signed/
+2025-06-01 17:50:42,328 INFO: Success: https://portofklaipeda.lt/en/naujienos/vision-of-new-cruise-ship-terminal-at-klaipeda-port-becomes-reality-construction-contract-signed/
+2025-06-01 17:50:43,863 INFO: Scraping article 13: https://portofklaipeda.lt/en/naujienos/a-modern-terminal-for-cruise-ships-in-the-port-of-klaipeda-new-space-for-the-city-and-opportunities-for-maritime-tourism/
+2025-06-01 17:50:44,488 INFO: Success: https://portofklaipeda.lt/en/naujienos/a-modern-terminal-for-cruise-ships-in-the-port-of-klaipeda-new-space-for-the-city-and-opportunities-for-maritime-tourism/
+2025-06-01 17:50:46,017 INFO: Scraping article 14: https://portofklaipeda.lt/en/naujienos/new-horizons-for-sustainable-energy-first-signatures-open-the-door-to-innovation-in-klaipeda-port/
+2025-06-01 17:50:46,774 INFO: Success: https://portofklaipeda.lt/en/naujienos/new-horizons-for-sustainable-energy-first-signatures-open-the-door-to-innovation-in-klaipeda-port/
+2025-06-01 17:50:48,304 INFO: Scraping article 15: https://portofklaipeda.lt/en/naujienos/new-territory-created-in-klaipeda-port-for-investors-and-water-sports-enthusiasts/
+2025-06-01 17:50:49,188 INFO: Success: https://portofklaipeda.lt/en/naujienos/new-territory-created-in-klaipeda-port-for-investors-and-water-sports-enthusiasts/
+2025-06-01 17:50:50,720 INFO: Scraping article 16: https://portofklaipeda.lt/en/naujienos/klaipeda-port-strengthens-its-position-growth-of-cargo-handling-and-increasing-market-share/
+2025-06-01 17:50:51,487 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-strengthens-its-position-growth-of-cargo-handling-and-increasing-market-share/
+2025-06-01 17:50:53,017 INFO: Scraping article 17: https://portofklaipeda.lt/en/naujienos/klaipeda-ports-mission-to-adapt-to-climate-change-is-financed-by-eu-funds/
+2025-06-01 17:50:53,693 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-ports-mission-to-adapt-to-climate-change-is-financed-by-eu-funds/
+2025-06-01 17:50:55,220 INFO: Scraping article 18: https://portofklaipeda.lt/en/naujienos/at-the-port-of-klaipeda-begins-a-new-era-of-sustainable-shipping-the-first-green-shipping-route-launched/
+2025-06-01 17:50:56,050 INFO: Success: https://portofklaipeda.lt/en/naujienos/at-the-port-of-klaipeda-begins-a-new-era-of-sustainable-shipping-the-first-green-shipping-route-launched/
+2025-06-01 17:50:57,581 INFO: Scraping article 19: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-welcomes-hundreds-of-maritime-industry-leaders/
+2025-06-01 17:50:58,303 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-welcomes-hundreds-of-maritime-industry-leaders/
+2025-06-01 17:50:59,830 INFO: Scraping article 20: https://portofklaipeda.lt/en/naujienos/stabilizing-trends-mark-first-half-of-the-year-at-port-of-klaipeda/
+2025-06-01 17:51:00,555 INFO: Success: https://portofklaipeda.lt/en/naujienos/stabilizing-trends-mark-first-half-of-the-year-at-port-of-klaipeda/
+2025-06-01 17:51:02,083 INFO: Scraping article 21: https://portofklaipeda.lt/en/naujienos/european-funding-for-electrification-of-quays-in-klaipeda-port/
+2025-06-01 17:51:02,778 INFO: Success: https://portofklaipeda.lt/en/naujienos/european-funding-for-electrification-of-quays-in-klaipeda-port/
+2025-06-01 17:51:04,307 INFO: Scraping article 22: https://portofklaipeda.lt/en/naujienos/a-modern-cruise-ship-terminal-with-new-spaces-in-the-city-will-be-built-in-port-of-klaipeda/
+2025-06-01 17:51:05,064 INFO: Success: https://portofklaipeda.lt/en/naujienos/a-modern-cruise-ship-terminal-with-new-spaces-in-the-city-will-be-built-in-port-of-klaipeda/
+2025-06-01 17:51:06,626 INFO: Scraping article 23: https://portofklaipeda.lt/en/naujienos/memorandum-signed-on-the-development-of-the-european-gauge-railway-line-to-klaipeda/
+2025-06-01 17:51:07,416 INFO: Success: https://portofklaipeda.lt/en/naujienos/memorandum-signed-on-the-development-of-the-european-gauge-railway-line-to-klaipeda/
+2025-06-01 17:51:08,946 INFO: Scraping article 24: https://portofklaipeda.lt/en/naujienos/a-new-era-in-the-lithuanian-shipping-industry-construction-of-the-first-hydrogen-electricity-powered-ship-has-begun/
+2025-06-01 17:51:09,630 INFO: Success: https://portofklaipeda.lt/en/naujienos/a-new-era-in-the-lithuanian-shipping-industry-construction-of-the-first-hydrogen-electricity-powered-ship-has-begun/
+2025-06-01 17:51:11,162 INFO: Scraping article 25: https://portofklaipeda.lt/en/naujienos/klaipeda-port-strengthens-its-fleet-with-addition-of-two-hybrid-pilot-boats/
+2025-06-01 17:51:11,922 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-strengthens-its-fleet-with-addition-of-two-hybrid-pilot-boats/
+2025-06-01 17:51:13,447 INFO: Scraping article 26: https://portofklaipeda.lt/en/naujienos/working-together-for-a-sustainable-future/
+2025-06-01 17:51:14,231 INFO: Success: https://portofklaipeda.lt/en/naujienos/working-together-for-a-sustainable-future/
+2025-06-01 17:51:15,766 INFO: Scraping article 27: https://portofklaipeda.lt/en/naujienos/klaipeda-port-takes-another-step-towards-green-hydrogen-production/
+2025-06-01 17:51:16,428 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-takes-another-step-towards-green-hydrogen-production/
+2025-06-01 17:51:17,962 INFO: Scraping article 28: https://portofklaipeda.lt/en/naujienos/klaipeda-port-prepares-to-deploy-green-hydrogen-powered-equipment/
+2025-06-01 17:51:18,678 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-prepares-to-deploy-green-hydrogen-powered-equipment/
+2025-06-01 17:51:20,199 INFO: Scraping article 29: https://portofklaipeda.lt/en/naujienos/the-southern-part-of-the-klaipeda-port-new-opportunities-and-billions-of-euros-for-the-country/
+2025-06-01 17:51:21,139 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-southern-part-of-the-klaipeda-port-new-opportunities-and-billions-of-euros-for-the-country/
+2025-06-01 17:51:22,672 INFO: Scraping article 30: https://portofklaipeda.lt/en/naujienos/klaipeda-port-with-the-pers-certificate-joins-the-club-of-the-most-environmentally-friendly-ports/
+2025-06-01 17:51:23,391 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-with-the-pers-certificate-joins-the-club-of-the-most-environmentally-friendly-ports/
+2025-06-01 17:51:24,918 INFO: Scraping article 31: https://portofklaipeda.lt/en/naujienos/cruise-season-kicks-off-this-year-with-a-musical-liner/
+2025-06-01 17:51:25,644 INFO: Success: https://portofklaipeda.lt/en/naujienos/cruise-season-kicks-off-this-year-with-a-musical-liner/
+2025-06-01 17:51:27,171 INFO: Scraping article 32: https://portofklaipeda.lt/en/naujienos/klaipeda-port-authority-commences-construction-on-new-fleet-base/
+2025-06-01 17:51:27,794 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-authority-commences-construction-on-new-fleet-base/
+2025-06-01 17:51:29,326 INFO: Scraping article 33: https://portofklaipeda.lt/en/naujienos/the-first-lng-bunkering-operation-performed-at-klaipeda-port-lithuania/
+2025-06-01 17:51:30,253 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-first-lng-bunkering-operation-performed-at-klaipeda-port-lithuania/
+2025-06-01 17:51:31,780 INFO: Scraping article 34: https://portofklaipeda.lt/en/naujienos/klaipeda-port-among-the-worlds-most-exciting-cruise-destinations/
+2025-06-01 17:51:32,608 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-among-the-worlds-most-exciting-cruise-destinations/
+2025-06-01 17:51:34,140 INFO: Scraping article 35: https://portofklaipeda.lt/en/naujienos/klaipeda-port-with-five-european-ports-and-x-press-feeders-signs-mou-for-green-shipping-corridors/
+2025-06-01 17:51:34,781 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-with-five-european-ports-and-x-press-feeders-signs-mou-for-green-shipping-corridors/
+2025-06-01 17:51:36,311 INFO: Scraping article 36: https://portofklaipeda.lt/en/naujienos/klaipeda-port-announced-a-tender-for-the-construction-of-an-offshore-wind-marshaling-harbour/
+2025-06-01 17:51:37,114 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-announced-a-tender-for-the-construction-of-an-offshore-wind-marshaling-harbour/
+2025-06-01 17:51:38,647 INFO: Scraping article 37: https://portofklaipeda.lt/en/naujienos/millions-of-euros-are-set-to-transform-klaipeda-port-infrastructure-in-4-year/
+2025-06-01 17:51:39,265 INFO: Success: https://portofklaipeda.lt/en/naujienos/millions-of-euros-are-set-to-transform-klaipeda-port-infrastructure-in-4-year/
+2025-06-01 17:51:40,801 INFO: Scraping article 38: https://portofklaipeda.lt/en/naujienos/klaipeda-port-the-year-of-2023-were-more-successful-than-expected/
+2025-06-01 17:51:41,619 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaipeda-port-the-year-of-2023-were-more-successful-than-expected/
+2025-06-01 17:51:43,150 INFO: Scraping article 39: https://portofklaipeda.lt/en/naujienos/the-second-offshore-wind-farm-tender-in-lithuania-was-launched-klaipeda-port-is-designing-offshore-wind-installation-quays/
+2025-06-01 17:51:43,773 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-second-offshore-wind-farm-tender-in-lithuania-was-launched-klaipeda-port-is-designing-offshore-wind-installation-quays/
+2025-06-01 17:51:45,300 INFO: Scraping article 40: https://portofklaipeda.lt/en/naujienos/the-unmanned-drone-mission-on-the-coast-of-lithuania-has-ended-140-ships-were-inspected-during-it/
+2025-06-01 17:51:46,014 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-unmanned-drone-mission-on-the-coast-of-lithuania-has-ended-140-ships-were-inspected-during-it/
+2025-06-01 17:51:47,540 INFO: Scraping article 41: https://portofklaipeda.lt/en/naujienos/conference-on-the-blue-economy-aims-to-unlock-lithuanias-maritime-potential/
+2025-06-01 17:51:48,275 INFO: Success: https://portofklaipeda.lt/en/naujienos/conference-on-the-blue-economy-aims-to-unlock-lithuanias-maritime-potential/
+2025-06-01 17:51:49,810 INFO: Scraping article 42: https://portofklaipeda.lt/en/naujienos/port-of-klaipedas-maritime-trade-with-the-usa-is-thriving-with-new-opportunities-being-explored-according-to-recent-meeting-between-lithuanian-delegates-and-new-york-port-authorities/
+2025-06-01 17:51:50,530 INFO: Success: https://portofklaipeda.lt/en/naujienos/port-of-klaipedas-maritime-trade-with-the-usa-is-thriving-with-new-opportunities-being-explored-according-to-recent-meeting-between-lithuanian-delegates-and-new-york-port-authorities/
+2025-06-01 17:51:52,059 INFO: Scraping article 43: https://portofklaipeda.lt/en/naujienos/port-of-klaipeda-announces-cooperation-agreement-with-one-of-the-worlds-leading-methanol-producer-and-suppliers/
+2025-06-01 17:51:52,779 INFO: Success: https://portofklaipeda.lt/en/naujienos/port-of-klaipeda-announces-cooperation-agreement-with-one-of-the-worlds-leading-methanol-producer-and-suppliers/
+2025-06-01 17:51:54,303 INFO: Scraping article 44: https://portofklaipeda.lt/en/naujienos/one-of-the-most-important-port-of-klaipeda-projects-in-recent-years-has-been-completed-it-can-be-considered-a-historical-event/
+2025-06-01 17:51:54,925 INFO: Success: https://portofklaipeda.lt/en/naujienos/one-of-the-most-important-port-of-klaipeda-projects-in-recent-years-has-been-completed-it-can-be-considered-a-historical-event/
+2025-06-01 17:51:56,457 INFO: Scraping article 45: https://portofklaipeda.lt/en/naujienos/seaports-of-klaipeda-and-south-korea-to-cooperate-in-the-fields-of-digitisation-innovation-and-environmental-protection/
+2025-06-01 17:51:57,083 INFO: Success: https://portofklaipeda.lt/en/naujienos/seaports-of-klaipeda-and-south-korea-to-cooperate-in-the-fields-of-digitisation-innovation-and-environmental-protection/
+2025-06-01 17:51:58,614 INFO: Scraping article 46: https://portofklaipeda.lt/en/naujienos/kiel-klaipeda-route-celebrates-30th-anniversary/
+2025-06-01 17:51:59,211 INFO: Success: https://portofklaipeda.lt/en/naujienos/kiel-klaipeda-route-celebrates-30th-anniversary/
+2025-06-01 17:52:00,750 INFO: Scraping article 47: https://portofklaipeda.lt/en/naujienos/port-of-klaipeda-2022-results-optimism-despite-a-challenging-year/
+2025-06-01 17:52:01,588 INFO: Success: https://portofklaipeda.lt/en/naujienos/port-of-klaipeda-2022-results-optimism-despite-a-challenging-year/
+2025-06-01 17:52:03,119 INFO: Scraping article 48: https://portofklaipeda.lt/en/naujienos/supporting-green-maritime-transport-e65-million-eib-backing-for-port-of-klaipeda-in-lithuania/
+2025-06-01 17:52:03,736 INFO: Success: https://portofklaipeda.lt/en/naujienos/supporting-green-maritime-transport-e65-million-eib-backing-for-port-of-klaipeda-in-lithuania/
+2025-06-01 17:52:05,259 INFO: Scraping article 49: https://portofklaipeda.lt/en/naujienos/investments-of-the-port-authority-opens-new-opportunities-for-container-stevedoring/
+2025-06-01 17:52:05,991 INFO: Success: https://portofklaipeda.lt/en/naujienos/investments-of-the-port-authority-opens-new-opportunities-for-container-stevedoring/
+2025-06-01 17:52:07,523 INFO: Scraping article 50: https://portofklaipeda.lt/en/naujienos/the-market-leading-baltic-and-black-sea-ports-shipping-2022-exhibition-and-conference-invites-to-meet/
+2025-06-01 17:52:08,243 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-market-leading-baltic-and-black-sea-ports-shipping-2022-exhibition-and-conference-invites-to-meet/
+2025-06-01 17:52:09,774 INFO: Scraping article 51: https://portofklaipeda.lt/en/naujienos/the-cargo-turnover-was-increased-by-containers-in-klaipeda-port-in-the-first-half-year/
+2025-06-01 17:52:10,496 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-cargo-turnover-was-increased-by-containers-in-klaipeda-port-in-the-first-half-year/
+2025-06-01 17:52:12,031 INFO: Scraping article 52: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-launches-the-creation-of-infrastructure-needed-for-an-offshore-wind-farm/
+2025-06-01 17:52:12,666 INFO: Success: https://portofklaipeda.lt/en/naujienos/the-port-of-klaipeda-launches-the-creation-of-infrastructure-needed-for-an-offshore-wind-farm/
+2025-06-01 17:52:14,192 INFO: Scraping article 53: https://portofklaipeda.lt/en/naujienos/in-2021-cargo-handling-in-klaipeda-port-has-mainly-increased-due-to-general-cargo-turnover/
+2025-06-01 17:52:14,879 INFO: Success: https://portofklaipeda.lt/en/naujienos/in-2021-cargo-handling-in-klaipeda-port-has-mainly-increased-due-to-general-cargo-turnover/
+2025-06-01 17:52:16,411 INFO: Scraping article 54: https://portofklaipeda.lt/en/naujienos/klaip%c4%97da-is-preparing-for-the-development-of-offshore-wind-energy-in-the-baltic-sea/
+2025-06-01 17:52:17,256 INFO: Success: https://portofklaipeda.lt/en/naujienos/klaip%c4%97da-is-preparing-for-the-development-of-offshore-wind-energy-in-the-baltic-sea/
+2025-06-01 17:52:18,781 INFO: Scraping article 55: https://portofklaipeda.lt/en/naujienos/delegation-of-japanese-businessmen-visited-the-port-of-klaip%c4%97da/
+2025-06-01 17:52:19,508 INFO: Success: https://portofklaipeda.lt/en/naujienos/delegation-of-japanese-businessmen-visited-the-port-of-klaip%c4%97da/
+2025-06-01 17:52:21,190 INFO: Data saved to ./data/klaipeda_port_scraper.xlsx
